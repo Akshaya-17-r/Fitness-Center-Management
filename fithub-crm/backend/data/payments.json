@@ -1,0 +1,12 @@
+[
+  { "id": "PAY001", "member": "Aarav Sharma", "memberId": "M001", "plan": "Premium", "amount": 5000, "date": "2026-04-03", "method": "UPI", "status": "Paid" },
+  { "id": "PAY002", "member": "Priya Nair", "memberId": "M002", "plan": "Standard", "amount": 3500, "date": "2026-04-03", "method": "Card", "status": "Paid" },
+  { "id": "PAY003", "member": "Rohit Verma", "memberId": "M003", "plan": "Basic", "amount": 1800, "date": "2026-04-02", "method": "Cash", "status": "Overdue" },
+  { "id": "PAY004", "member": "Meera Pillai", "memberId": "M004", "plan": "Premium", "amount": 5000, "date": "2026-04-02", "method": "Net Banking", "status": "Paid" },
+  { "id": "PAY005", "member": "Kiran Patel", "memberId": "M005", "plan": "Standard", "amount": 3500, "date": "2026-04-01", "method": "UPI", "status": "Paid" },
+  { "id": "PAY006", "member": "Sneha Reddy", "memberId": "M006", "plan": "Premium", "amount": 5000, "date": "2026-04-01", "method": "Card", "status": "Pending" },
+  { "id": "PAY007", "member": "Vikram Joshi", "memberId": "M007", "plan": "Basic", "amount": 1800, "date": "2026-03-31", "method": "UPI", "status": "Paid" },
+  { "id": "PAY008", "member": "Ananya Singh", "memberId": "M008", "plan": "Premium", "amount": 5000, "date": "2026-03-28", "method": "Card", "status": "Paid" },
+  { "id": "PAY009", "member": "Dev Malhotra", "memberId": "M009", "plan": "Standard", "amount": 3500, "date": "2026-03-25", "method": "Net Banking", "status": "Paid" },
+  { "id": "PAY010", "member": "Nikhil Gupta", "memberId": "M011", "plan": "Premium", "amount": 5000, "date": "2026-03-20", "method": "UPI", "status": "Paid" }
+]

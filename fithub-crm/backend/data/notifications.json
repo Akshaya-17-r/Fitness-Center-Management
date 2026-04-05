@@ -1,0 +1,10 @@
+[
+  { "id": "N001", "msg": "Membership of Rohit Verma expired on Apr 10. Send renewal reminder.", "time": "2 hours ago", "read": false, "type": "danger" },
+  { "id": "N002", "msg": "Kavya Rao's membership expires in 3 days. Follow up required.", "time": "3 hours ago", "read": false, "type": "warning" },
+  { "id": "N003", "msg": "Aarav Sharma's subscription expiring on Apr 15. Send renewal offer.", "time": "5 hours ago", "read": false, "type": "warning" },
+  { "id": "N004", "msg": "New class 'Weekend Boot Camp' added by Arjun Joshi.", "time": "Yesterday", "read": false, "type": "info" },
+  { "id": "N005", "msg": "Monthly billing cycle starts in 2 days. Review pending invoices.", "time": "Yesterday", "read": false, "type": "info" },
+  { "id": "N006", "msg": "Trainer Riya Kapoor rated 4.9 this month — top performer!", "time": "2 days ago", "read": true, "type": "info" },
+  { "id": "N007", "msg": "Revenue target for March achieved. Rs 4,21,800 collected.", "time": "3 days ago", "read": true, "type": "info" },
+  { "id": "N008", "msg": "New member Tanvi Bose enrolled in Standard plan.", "time": "4 days ago", "read": true, "type": "info" }
+]

@@ -1,0 +1,19 @@
+[
+  { "id": "C001", "name": "HIIT Blast", "type": "hiit", "day": "Monday", "time": "6:00 AM", "trainer": "Arjun Joshi", "capacity": 40, "enrolled": 32 },
+  { "id": "C002", "name": "Yoga Flow", "type": "yoga", "day": "Monday", "time": "8:00 AM", "trainer": "Riya Kapoor", "capacity": 25, "enrolled": 22 },
+  { "id": "C003", "name": "Spin Express", "type": "spin", "day": "Monday", "time": "6:00 PM", "trainer": "Suresh Kumar", "capacity": 30, "enrolled": 15 },
+  { "id": "C004", "name": "Pilates Core", "type": "pilates", "day": "Tuesday", "time": "7:00 AM", "trainer": "Priya Mehta", "capacity": 25, "enrolled": 25 },
+  { "id": "C005", "name": "HIIT Circuit", "type": "hiit", "day": "Tuesday", "time": "5:30 PM", "trainer": "Arjun Joshi", "capacity": 35, "enrolled": 28 },
+  { "id": "C006", "name": "Vinyasa Yoga", "type": "yoga", "day": "Wednesday", "time": "6:30 AM", "trainer": "Riya Kapoor", "capacity": 25, "enrolled": 20 },
+  { "id": "C007", "name": "Spin Endurance", "type": "spin", "day": "Wednesday", "time": "7:00 PM", "trainer": "Suresh Kumar", "capacity": 30, "enrolled": 18 },
+  { "id": "C008", "name": "Barre Fusion", "type": "pilates", "day": "Wednesday", "time": "9:00 AM", "trainer": "Deepa Iyer", "capacity": 20, "enrolled": 14 },
+  { "id": "C009", "name": "Power HIIT", "type": "hiit", "day": "Thursday", "time": "6:00 AM", "trainer": "Arjun Joshi", "capacity": 40, "enrolled": 35 },
+  { "id": "C010", "name": "Hatha Yoga", "type": "yoga", "day": "Thursday", "time": "8:00 AM", "trainer": "Riya Kapoor", "capacity": 25, "enrolled": 19 },
+  { "id": "C011", "name": "Pilates Sculpt", "type": "pilates", "day": "Friday", "time": "7:30 AM", "trainer": "Deepa Iyer", "capacity": 20, "enrolled": 16 },
+  { "id": "C012", "name": "HIIT Tabata", "type": "hiit", "day": "Friday", "time": "5:00 PM", "trainer": "Raj Nair", "capacity": 30, "enrolled": 24 },
+  { "id": "C013", "name": "Spin Rush", "type": "spin", "day": "Friday", "time": "7:00 PM", "trainer": "Suresh Kumar", "capacity": 30, "enrolled": 22 },
+  { "id": "C014", "name": "Weekend Yoga", "type": "yoga", "day": "Saturday", "time": "7:00 AM", "trainer": "Riya Kapoor", "capacity": 30, "enrolled": 27 },
+  { "id": "C015", "name": "Boot Camp", "type": "hiit", "day": "Saturday", "time": "9:00 AM", "trainer": "Arjun Joshi", "capacity": 40, "enrolled": 38 },
+  { "id": "C016", "name": "Restore Yoga", "type": "yoga", "day": "Sunday", "time": "8:00 AM", "trainer": "Priya Mehta", "capacity": 25, "enrolled": 18 },
+  { "id": "C017", "name": "Pilates Flow", "type": "pilates", "day": "Sunday", "time": "10:00 AM", "trainer": "Deepa Iyer", "capacity": 20, "enrolled": 12 }
+]

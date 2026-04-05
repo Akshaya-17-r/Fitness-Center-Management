@@ -1,0 +1,8 @@
+[
+  { "id": "T001", "name": "Riya Kapoor", "email": "riya@fithub.in", "phone": "+91 9800001001", "spec": "Yoga & Pilates", "avail": "Full Time", "members": 48, "classes": 32, "rating": 4.9, "experience": "6 years" },
+  { "id": "T002", "name": "Arjun Joshi", "email": "arjun@fithub.in", "phone": "+91 9800001002", "spec": "HIIT & CrossFit", "avail": "Full Time", "members": 42, "classes": 28, "rating": 4.8, "experience": "5 years" },
+  { "id": "T003", "name": "Priya Mehta", "email": "priya@fithub.in", "phone": "+91 9800001003", "spec": "Strength Training", "avail": "Full Time", "members": 38, "classes": 24, "rating": 4.7, "experience": "4 years" },
+  { "id": "T004", "name": "Suresh Kumar", "email": "suresh@fithub.in", "phone": "+91 9800001004", "spec": "Spin & Cardio", "avail": "Part Time", "members": 30, "classes": 18, "rating": 4.6, "experience": "3 years" },
+  { "id": "T005", "name": "Deepa Iyer", "email": "deepa@fithub.in", "phone": "+91 9800001005", "spec": "Pilates & Barre", "avail": "Weekends Only", "members": 22, "classes": 14, "rating": 4.5, "experience": "4 years" },
+  { "id": "T006", "name": "Raj Nair", "email": "raj@fithub.in", "phone": "+91 9800001006", "spec": "Boxing & MMA", "avail": "Part Time", "members": 26, "classes": 16, "rating": 4.4, "experience": "7 years" }
+]
